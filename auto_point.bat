@@ -1,0 +1,1 @@
+python E:\ScripFile\python\aj-auto_point\auto_point.py
